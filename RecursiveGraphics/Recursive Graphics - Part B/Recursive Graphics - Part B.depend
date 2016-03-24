@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1417395477 source:c:\users\bruno\google drive\grade 11\computer science\other\recursive graphics\recursive graphics - part b\main.cpp
+	<GL/glut.h>
+	<cmath>
+
+1416411437 c:\users\bruno\google drive\grade 11\computer science\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1416411437 c:\users\bruno\google drive\grade 11\computer science\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
