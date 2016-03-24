@@ -23,3 +23,7 @@ https://www.opengl.org/resources/libraries/glut/
 GLUT (and hence FreeGLUT) takes care of all the system-specific chores required for creating windows, initializing OpenGL contexts, and handling input events, to allow for trully portable OpenGL programs."
 
 http://freeglut.sourceforge.net
+
+### FreeGLUT Download
+The following download of FreeGLUT was used for this project (MinGW package):
+http://www.transmissionzero.co.uk/software/freeglut-devel/
